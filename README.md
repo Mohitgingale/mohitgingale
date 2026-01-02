@@ -9,6 +9,17 @@ BCA Graduate with 9.29 CGPA | Certified Cyber Security Expert<br><br>A passionat
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Kali%20Linux-blue?style=for-the-badge&logo=kalilinux&logoColor=white)  ![Ethical Hacker](https://img.shields.io/badge/ETHICAL-HACKER-black?style=for-the-badge&logo=kalilinux&logoColor=green)   ![Hacking Skills](https://img.shields.io/badge/HACKING%20SKILLS-Pentesting%20|%20OSINT%20|%20Forensics-darkred?style=for-the-badge&logo=hackaday&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ethical Hacker](https://img.shields.io/badge/ETHICAL-HACKER-111827?style=for-the-badge&logo=linux&logoColor=green)
 
 
+![Cybersecurity Skills](https://img.shields.io/badge/CYBERSECURITY-Pentesting%20|%20Forensics%20|%20Web%20|%20App%20Security-black?style=for-the-badge&logo=security&logoColor=00ff00)
+
+
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-Red%20Team%20|%20Blue%20Team%20|%20SOC-0b132b?style=for-the-badge&logo=kalilinux&logoColor=green)
+
+
+![Security Skills](https://img.shields.io/badge/SECURITY-Web%20|%20App%20|%20Network%20|%20Cloud-111827?style=for-the-badge&logo=linux&logoColor=00ff00)
+
+
+![Cyber Skills](https://img.shields.io/badge/CYBER%20SKILLS-Pentesting%20|%20SOC%20|%20Forensics-darkgreen?style=for-the-badge&logo=hackaday&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
