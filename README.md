@@ -7,7 +7,7 @@ BCA Graduate with 9.29 CGPA | Certified Cyber Security Expert<br><br>A passionat
 
 # 💻 Tech Stack:
 ![Cybersecurity Expert](https://img.shields.io/badge/CYBERSECURITY-Expert%20in%20Pentesting%20|%20Forensics%20|%20Web%20%26%20App%20Security%20|%20Network%20%26%20Cloud%20Security%20|%20SOC%20|%20Red%20%26%20Blue%20Team-334155?style=for-the-badge&logo=security&logoColor=white)
-![Cybersecurity Master](https://img.shields.io/badge/CYBERSECURITY%20MASTER-Offensive%20%26%20Defensive%20Security%20|%20Pentesting%20|%20Forensics%20|%20SOC-1e293b?style=for-the-badge&logo=security&logoColor=white)
+
 
 
 
