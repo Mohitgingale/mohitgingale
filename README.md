@@ -1,7 +1,5 @@
 # 💫 About Me:
-BCA Graduate with 9.29 CGPA | Certified Cyber Security Expert<br><br>A passionate cybersecurity enthusiast with strong foundation in IT infrastructure and system security. Experienced in ethical hacking, network security, and web development.
-
-Completed Cisco’s free Ethical Hacking and Introduction to Cybersecurity courses, gaining foundational knowledge in security principles. Experienced in IT hardware and familiar with Linux operating systems. Strong practical exposure and motivated to contribute to roles in information security, IT infrastructure, and system support.
+BCA Graduate with 9.29 CGPA | Certified Cyber Security Expert<br><br>A passionate cybersecurity enthusiast with strong foundation in IT infrastructure and system security. Experienced in ethical hacking, network security, and web development. Completed Cisco’s free Ethical Hacking and Introduction to Cybersecurity courses, gaining foundational knowledge in security principles. Experienced in IT hardware and familiar with Linux operating systems. Strong practical exposure and motivated to contribute to roles in information security, IT infrastructure, and system support.
 
 
 ## 🌐 Socials:
