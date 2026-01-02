@@ -44,11 +44,11 @@ I am actively seeking **entry-level roles** where I can grow and contribute in *
 
 ### 📈 Skill Level Overview
 
- 🟢 **Beginner → Intermediate:** Ethical Hacking, Penetration Testing (Basics)
- 🟢 **Beginner:** Web & Application Security
- 🟢 **Beginner:** Network Security Fundamentals
- 🟢 **Beginner:** Digital Forensics (Conceptual)
- 🟢 **Beginner:** SOC & Security Monitoring Basics
+ 🟢 **Beginner → Intermediate:** Ethical Hacking, Penetration Testing (Basics) <br>
+ 🟢 **Beginner:** Web & Application Security <br>
+ 🟢 **Beginner:** Network Security Fundamentals <br>
+ 🟢 **Beginner:** Digital Forensics (Conceptual) <br>
+ 🟢 **Beginner:** SOC & Security Monitoring Basics <br>
 
 ### 🧰 Security Tools (Hands-on Basics)
 
