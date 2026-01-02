@@ -6,8 +6,9 @@ BCA Graduate with 9.29 CGPA | Certified Cyber Security Expert<br><br>A passionat
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitgingale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitgingale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitingale3246@gmail.com) 
 
 # 💻 Tech Stack:
-![Cybersecurity Expert](https://img.shields.io/badge/CYBERSECURITY-Pentesting%20|%20Digital%20Forensics%20|%20Web%20Security%20|%20Application%20Security%20|%20Network%20Security%20|%20Cloud%20Security%20|%20SOC%20|%20Red%20Team%20|%20Blue%20Team-black?style=for-the-badge&logo=security&logoColor=00ff00)
-![Ethical Hacker](https://img.shields.io/badge/ETHICAL%20HACKER-Pentesting%20|%20Forensics%20|%20Web%20|%20App%20|%20Network%20Security-0f172a?style=for-the-badge&logo=kalilinux&logoColor=00ff00)
+![Cybersecurity Expert](https://img.shields.io/badge/CYBERSECURITY-Expert%20in%20Pentesting%20|%20Forensics%20|%20Web%20%26%20App%20Security%20|%20Network%20%26%20Cloud%20Security%20|%20SOC%20|%20Red%20%26%20Blue%20Team-020617?style=for-the-badge&logo=kalilinux&logoColor=22c55e)
+![Cybersecurity Master](https://img.shields.io/badge/CYBERSECURITY%20MASTER-Offensive%20%26%20Defensive%20Security%20|%20Pentesting%20|%20Forensics%20|%20SOC-black?style=for-the-badge&logo=kalilinux&logoColor=00ff00)
+
 
 
 # 📊 GitHub Stats:
